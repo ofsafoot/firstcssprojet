@@ -1,0 +1,86 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 110%;
+  margin: 0;
+  background-color: #f4f1ea;
+  color: #222222;
+}
+
+header {
+  background-color: #006b3f;
+  padding: 0 0 20px 0;
+  text-align: center;
+}
+
+header img {
+  margin-top: 25px;
+  border: 3px solid #ffffff;
+}
+
+nav {
+  background-color: #003d24;
+  padding: 12px 20px;
+}
+
+nav ul {
+  margin: 0;
+  padding: 0;
+}
+
+nav a {
+  color: #fcd116;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+main {
+  background-color: #ffffff;
+  font-size: 1.1em;
+  max-width: 850px;
+  margin: 30px auto;
+  padding: 20px 40px;
+  border-top: 6px solid #fcd116;
+}
+
+main a {
+  color: #006b3f;
+}
+
+h2 {
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  color: #006b3f;
+  margin-bottom: 5px;
+}
+
+footer {
+  background-color: #7a0a19;
+  color: #ffffff;
+  font-size: 0.8em;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+footer a {
+  color: #fcd116;
+}
+
+li {
+  display: inline-block;
+  width: 30%;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, sans-serif;
+  color: #ffffff;
+  font-size: 2.2em;
+}
+
+p {
+  line-height: 1.6;
+}
